@@ -8,3 +8,10 @@ Download the genome using ``curl``.
 ```
 $ curl --location --output Sco.dna http://bit.ly/1Q8eKWT
 ```
+
+Data processing.
+
+```
+$ python dna2csv.py
+$ Rscript csv2png.R
+```
