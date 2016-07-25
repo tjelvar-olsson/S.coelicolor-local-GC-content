@@ -1,3 +1,6 @@
+manuscript.*
+!manuscript.md
+
 Sco.dna
 local_gc_content.csv
 local_gc_content.png
